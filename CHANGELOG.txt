@@ -1,0 +1,47 @@
+Dying Light - Randomiser Mod - Changelog
+========================================
+
+2.0
+---
+New randomisers
+    - Randomise enemy AI (Experimental): enemies keep their body but get another enemy's behaviour
+      (same body shape only), e.g. a Goon acting like a biter, a viral acting like a Suicider,
+      a Rais soldier fighting like Tahir.
+    - UI colours: Accents or Everything, with an optional "Icons too" for HUD, radar and map icons.
+    - World colours: Tinted or Wild sun, sky, cloud, water and star colours.
+    - Dialogue: Same character or Everyone, in Harran and The Following.
+    - Shuffle subtitles: subtitles of spoken lines swap with each other, in Harran and The Following.
+    - Quest rewards: side quest and encounter rewards swap for others of the same kind; cash varies.
+
+New enemies (70 in the pool, up from 49)
+    - Hellraid: skeletons (3 kinds), fire / lightning / poison adepts, Dark Knight and Minotaur, in Harran.
+      Optional and experimental in The Following too.
+    - The Mother, The Following's final boss, in both forms (viral and Volatile), in The Following and,
+      optionally, in Harran.
+    - The Following's human ghost, optionally in Harran.
+    - The big military viral, optionally in Harran with its real look.
+    - Friendly NPCs: armed and unarmed survivors, Ahmet, Babar, Faruk, a Tower soldier, a bodyguard
+      and Jade. They fight zombies and won't attack you.
+
+Improvements
+    - Freaks of Nature in Harran now get their real Following behaviour, toughness and size.
+    - Menu redesign: the Enemies section is just the main switches, and every enemy, group and DLC
+      option lives in the "Enemy spawn pool selection" window.
+    - New groups start switched off, including for people updating from 1.0.
+
+Fixes
+    - "Remove mod" now restores the game's original files byte for byte. Before, the game could still
+      report a modified install after removing the mod.
+    - The Following no longer crashes when the spawn pool holds only enemies it can't use.
+
+Known issues
+    - With Hellraid enemies or the "in Harran" options on, the Prison map and the Be the Zombie
+      tutorial crash. The menu warns about this.
+    - Street crowds of special infected can glitch or crash (unchanged from 1.0).
+    - With enemy AI on, biters given a Goon's AI carry the hammer but still hit with their hands.
+
+1.0
+---
+    - First release: randomised enemy spawns, street crowds, loot, shops, Quartermaster stock, weapon
+      tiers and loot quantity in Harran and The Following, with a mod menu, seeds and an optional new
+      roll every time the game starts.
